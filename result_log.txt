@@ -1,0 +1,52 @@
+start training~!! =========================
+	 iteration num : 0 // train loss value : 5.710559
+	 iteration num : 10 // train loss value : 5.439175
+	 iteration num : 20 // train loss value : 5.366662
+	 iteration num : 30 // train loss value : 5.342687
+	 iteration num : 40 // train loss value : 5.335018
+	 iteration num : 50 // train loss value : 5.245297
+	 iteration num : 60 // train loss value : 5.184608
+	 iteration num : 70 // train loss value : 5.247811
+	 iteration num : 80 // train loss value : 5.096849
+	 iteration num : 90 // train loss value : 5.112818
+Epoch num : 1 // train loss value : 5.094881
+start training~!! =========================
+	 iteration num : 0 // train loss value : 5.688077
+	 iteration num : 10 // train loss value : 5.469160
+	 iteration num : 20 // train loss value : 5.495279
+	 iteration num : 30 // train loss value : 5.388515
+	 iteration num : 40 // train loss value : 5.362691
+	 iteration num : 50 // train loss value : 5.332359
+	 iteration num : 60 // train loss value : 5.312348
+	 iteration num : 70 // train loss value : 5.276316
+	 iteration num : 80 // train loss value : 5.166395
+	 iteration num : 90 // train loss value : 5.095860
+Epoch num : 1 // train loss value : 5.014974
+validation loss : 5.164666
+validation accuracy : case - 1 : 1421.000000 // case-2 : 870.000000
+	 iteration num : 0 // train loss value : 5.165189
+	 iteration num : 10 // train loss value : 5.122139
+	 iteration num : 20 // train loss value : 5.197135
+	 iteration num : 30 // train loss value : 5.063975
+	 iteration num : 40 // train loss value : 5.125021
+	 iteration num : 50 // train loss value : 5.015054
+	 iteration num : 60 // train loss value : 5.033749
+	 iteration num : 70 // train loss value : 5.062073
+	 iteration num : 80 // train loss value : 4.972815
+	 iteration num : 90 // train loss value : 5.017205
+Epoch num : 2 // train loss value : 4.965786
+check the train / validation dataset number : 
+check the train / validation dataset number : 
+400
+400
+start training~!! =========================
+	 iteration num : 0 // train loss value : 5.667227
+	 iteration num : 10 // train loss value : 5.372651
+	 iteration num : 20 // train loss value : 5.355415
+	 iteration num : 30 // train loss value : 5.308854
+	 iteration num : 40 // train loss value : 5.293860
+	 iteration num : 50 // train loss value : 5.269217
+	 iteration num : 60 // train loss value : 5.191580
+	 iteration num : 70 // train loss value : 5.227832
+	 iteration num : 80 // train loss value : 5.139332
+	 iteration num : 90 // train loss value : 5.026995
